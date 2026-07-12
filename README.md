@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGtUWpEKCtv0g/profile-displaybackgroundimage-shrink_350_1400/B4DZtp25VOIAAY-/0/1767007559509?e=1769644800&v=beta&t=UWnS4eRQxZO1qO9z7SMzEYIMOIomABX6nxASV2qXQGI" />
+  
 </p>
 
 <h1 align="center">  Hey, I’m Arooba </h1>
