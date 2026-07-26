@@ -5,9 +5,6 @@
 <h1 align="center">  Hey, I’m Arooba Akhtar </h1>
 <h3 align="center"> Software Engineer | Mobile application| DevOps Enthusiast </h3>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="flutter dev animation" width="400"/>
-</p> 
 
 
  Currently diving deeper into:
