@@ -19,7 +19,7 @@
 - Clean UI & responsive layouts
 
 📫 Let's connect:  
-**Email** → aroobaakhtar13@gmail.com 
+**Email** → aroobaakhtar731@gmail.com 
 
 
 # 💻 Tech Stack:
