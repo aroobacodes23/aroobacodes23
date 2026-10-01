@@ -7,9 +7,8 @@
 
 
 
- Currently diving deeper into:
-- Firebase Auth, Firestore, and Cloud Functions
-- Dart best practices & clean code patterns
+ Currently into:
+- Flutter , DevOops, Automation
 -  Building mobile apps and currently diving deep into DevOps, Python, cloud technologies, and modern software development.
 
 
